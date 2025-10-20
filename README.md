@@ -25,7 +25,7 @@ Check out the live demo on GitHub Pages:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/TwojLogin/simple-calculator.git
+git clone https://github.com/Mitii146/simple-calculator.git
 ```
 
 2. Open index.html in your browser.
